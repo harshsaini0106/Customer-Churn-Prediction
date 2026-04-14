@@ -67,4 +67,6 @@ It uses a trained ML model and provides **real-time predictions through an inter
 
 ---
 
-## 🖥️ Project Structure
+## 📷 Project Preview
+
+![App Screenshot](preview.png)
